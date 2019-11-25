@@ -20,9 +20,9 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: HyperDEX<br><strong>It's time to <em>really</em> trade decentralized</strong>
-  content: HyperDEX allows anyone to trade in a decentralized manner; no more KYC,
-    no more centralizing entity.
+  headline: HyperDEX<br><strong>Time to <em>really</em> trade decentralized</strong>
+  content: HyperDEX allows anyone to trade in a decentralized manner using peer-2-peer
+    atomic swaps; no more KYC, no more centralizing entity.
   cta:
     enabled: true
     url: https://github.com/atomiclabs/hyperdex
