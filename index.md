@@ -75,11 +75,16 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
-- template: navigation-header-w-button
-  block: header-2
-  logo: ''
-  navigation: []
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
   cta:
+    enabled: false
     url: ''
     button_text: ''
 published: false
