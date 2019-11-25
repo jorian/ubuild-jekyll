@@ -34,10 +34,10 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: "<strong>Swap 200+ coins </strong>easy and fast, using the shexy HyperDEX
+    UI."
+  content: Check <a href="https://github.com/jl777/coins" title="coins">this list</a>
+    and see if you're supported!
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
