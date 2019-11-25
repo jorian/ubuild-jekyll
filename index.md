@@ -25,8 +25,8 @@ page_sections:
     no more centralizing entity.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://github.com/atomiclabs/hyperdex
+    button_text: Download now
   image:
     image: "/uploads/2019/11/25/exchange-view.png"
     alt_text: Product Shot
