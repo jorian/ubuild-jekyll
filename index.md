@@ -34,8 +34,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Swap 200+ coins </strong>easy and fast, using the shexy HyperDEX
-    UI."
+  headline: "<strong>Swap 200+ coins </strong>easy and fast, using the ultra shexy
+    HyperDEX UI."
   content: Check <a href="https://github.com/jl777/coins" title="coins">this list</a>
     and see if you're supported!
   media:
