@@ -21,8 +21,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: HyperDEX<br><strong>It's time to <em>really</em> trade decentralized</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: HyperDEX allows anyone to trade in a decentralized manner; no more KYC,
+    no more centralizing entity.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
